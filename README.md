@@ -13,6 +13,6 @@ Dieses Projekt ist nicht für die Veröffentlichung gedacht und funktioniert nur
 ## Nutzung
 1. Python 3 installieren
 2. Dateien in der IDE öffnen
-3. Hauptdatei (`main.py` o. ä.) ausführen
+3. Hauptdatei (`main.py` ) ausführen
 
 
